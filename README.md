@@ -67,34 +67,62 @@ The network diagram illustrates task dependencies and sequencing across all proj
 
 ---
 
-## 👥 Responsibility Matrix (RACI)
+### 📅 Project Schedule
 
-![Responsibility Matrix](docs/responsibility-matrix.png)
+The project follows a structured 25-week timeline across all SDLC phases:
 
-The RACI matrix defines accountability and ownership for each major task, ensuring clear communication and efficient execution.
+| Phase                | Tasks                                         | Duration | Time Frame      |
+| -------------------- | --------------------------------------------- | -------- | --------------- |
+| Initiation           | Define scope, team alignment                  | 14 days  | Mar 28 – Apr 11 |
+| Planning             | Project charter, WBS, procurement plan        | 28 days  | Apr 11 – May 09 |
+| Procurement          | Issue RFP, evaluate vendors, sign contracts   | 28 days  | May 09 – Jun 06 |
+| Design & Development | UI/UX design, software build, tablet purchase | 56 days  | Jun 06 – Aug 01 |
+| Testing              | Functional and user testing                   | 28 days  | Aug 01 – Aug 29 |
+| Deployment           | Install tablets, train staff, launch          | 14 days  | Aug 29 – Sep 12 |
+| Closure              | Final checks, report, handoff                 | 7 days   | Sep 12 – Sep 19 |
 
 ---
 
-## 📅 Project Schedule Overview
+### 💰 Project Cost Summary
 
-![Project Schedule](docs/project-schedule.png)
+| Activity                           | Estimated Cost    |
+| ---------------------------------- | ----------------- |
+| Hardware (250 tablets @ $300 each) | $75,000           |
+| Software Development               | $50,000           |
+| System Integration                 | $20,000           |
+| Testing & Quality Assurance        | $5,000            |
+| Staff Training                     | $3,000            |
+| Project Management                 | $7,000            |
+| Contingency                        | $10,000           |
+| **Total Estimated Cost**           | **$120K – $170K** |
 
-The schedule outlines key phases including initiation, planning, procurement, development, testing, deployment, and closure.
+**Key Insight:**
+The project budget is primarily driven by hardware procurement and software development, which together account for the majority of total costs.
 
 ---
 
-## 💰 Project Cost Summary
+### 👥 Responsibility Matrix (RACI)
 
-| Component                | Estimated Cost    |
-| ------------------------ | ----------------- |
-| Hardware (250 tablets)   | $75,000           |
-| Software Development     | $50,000           |
-| System Integration       | $20,000           |
-| Testing & QA             | $5,000            |
-| Staff Training           | $3,000            |
-| Project Management       | $7,000            |
-| Contingency              | $10,000           |
-| **Total Estimated Cost** | **$120K – $170K** |
+The Responsibility Matrix defines ownership and accountability for each major task in the project.
+
+| Task                          | Project Manager (Femi) | Procurement (Onyinyechi) | Tech Lead (Assam) | Scheduling (Niranjan) | Cost/Close-Out (Adamah) |
+| ----------------------------- | ---------------------- | ------------------------ | ----------------- | --------------------- | ----------------------- |
+| Define Scope                  | A                      | I                        | R                 | C                     | I                       |
+| Develop RFP                   | I                      | A/R                      | C                 | I                     | I                       |
+| Vendor Selection              | C                      | A/R                      | C                 | C                     | I                       |
+| Project Planning              | A                      | C                        | R                 | R                     | I                       |
+| Software/Hardware Integration | I                      | C                        | A/R               | C                     | I                       |
+| Schedule Development          | I                      | I                        | C                 | A/R                   | I                       |
+| Cost Estimation               | I                      | I                        | C                 | C                     | A/R                     |
+| Testing and QA                | A                      | C                        | R                 | C                     | I                       |
+| Deployment                    | A                      | C                        | R                 | R                     | C                       |
+| Training                      | A                      | C                        | C                 | R                     | I                       |
+| Project Closure               | I                      | I                        | I                 | C                     | A/R                     |
+
+**R = Responsible | A = Accountable | C = Consulted | I = Informed**
+
+**Key Insight:**
+Using a RACI matrix ensured clear task ownership, improved communication, and reduced ambiguity across the project team.
 
 ---
 
