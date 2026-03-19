@@ -61,7 +61,11 @@ The Work Breakdown Structure divides the project into smaller, manageable compon
 
 ## 🔗 Network Diagram
 
-![Network Diagram](docs/network-diagram.png)
+### Part 1
+![Network Diagram Part 1](docs/network-diagram1.png)
+
+### Part 2
+![Network Diagram Part 2](docs/network-diagram2.png)
 
 The network diagram illustrates task dependencies and sequencing across all project phases.
 
@@ -161,8 +165,11 @@ Using a RACI matrix ensured clear task ownership, improved communication, and re
 
 ## 🔗 Project Files
 
-* 📄 [Full Report](docs/system_architecture_report.pdf)
-* 📊 [Presentation Slides](docs/system_architecture_project.pptx)
+📄 **Final Report:**  
+👉 [Open Report](docs/final-report.docx)
+
+📊 **Presentation Slides:**  
+👉 [Open Slides](docs/project-presentation.pptx)
 
 ---
 
