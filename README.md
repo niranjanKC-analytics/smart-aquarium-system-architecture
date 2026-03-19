@@ -154,5 +154,4 @@ This project demonstrates the ability to:
 **Niranjan K C**
 - Information Technology | Data Analytics
 - Towson University (May 2026)
-
 ---
